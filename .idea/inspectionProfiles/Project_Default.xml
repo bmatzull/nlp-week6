@@ -1,0 +1,72 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="annotated-doc" />
+          <option value="anyio" />
+          <option value="async-timeout" />
+          <option value="attrs" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="datasets" />
+          <option value="dill" />
+          <option value="exceptiongroup" />
+          <option value="filelock" />
+          <option value="frozenlist" />
+          <option value="fsspec" />
+          <option value="h11" />
+          <option value="hf-xet" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="huggingface-hub" />
+          <option value="idna" />
+          <option value="jinja2" />
+          <option value="markdown-it-py" />
+          <option value="markupsafe" />
+          <option value="mdurl" />
+          <option value="mpmath" />
+          <option value="multidict" />
+          <option value="multiprocess" />
+          <option value="networkx" />
+          <option value="numpy" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="propcache" />
+          <option value="pyarrow" />
+          <option value="pygments" />
+          <option value="python-dateutil" />
+          <option value="pytz" />
+          <option value="pyyaml" />
+          <option value="regex" />
+          <option value="requests" />
+          <option value="rich" />
+          <option value="safetensors" />
+          <option value="setuptools" />
+          <option value="shellingham" />
+          <option value="six" />
+          <option value="sympy" />
+          <option value="tokenizers" />
+          <option value="torch" />
+          <option value="tqdm" />
+          <option value="transformers" />
+          <option value="typer" />
+          <option value="typing-extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="xxhash" />
+          <option value="yarl" />
+          <option value="sentence-transformers" />
+          <option value="rank_bm25" />
+          <option value="scikit-learn" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
